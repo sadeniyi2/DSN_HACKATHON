@@ -1,0 +1,23 @@
+[
+  {
+    "persona_id": "NG_chiamaka",
+    "item": "Shea Butter Body Cream 500g handmade in Kano",
+    "predicted_rating": 5,
+    "review_text": "This shea butter body cream na bomb, my skin dey glow like say I dey use glow up cream, the coconut and lavender oil blend well well, I love am",
+    "reasoning": "The user's previous 5-star review of a locally made shea butter cream and their appreciation for quality and effectiveness suggest they will highly rate this similar product with a rich blend of natural ingredients."
+  },
+  {
+    "persona_id": "NG_tunde",
+    "item": "Generator-friendly clipper battery and AC",
+    "predicted_rating": 5,
+    "review_text": "Clips well, battery life dey, works with NEPA and generator, sharp blades too.",
+    "reasoning": "The user's positive review history and focus on key product features suggest they will highly rate this item due to its convenience, versatility, and performance."
+  },
+  {
+    "persona_id": "NG_zainab",
+    "item": "Sunscreen SPF 50 for melanin-rich skin no white cast",
+    "predicted_rating": 4,
+    "review_text": "This sunscreen dey try, no white cast at all and it's not greasy like some others I've used. Works well for my skin tone, I'm impressed",
+    "reasoning": "The user's positive experience with the 'Black soap from Ghana' suggests they appreciate products that cater to their skin tone, so they will likely rate this sunscreen highly if it delivers on its promise of no white cast and suitability for melanin-rich skin."
+  }
+]

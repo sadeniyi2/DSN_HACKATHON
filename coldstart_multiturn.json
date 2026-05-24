@@ -1,0 +1,94 @@
+{
+  "cold_start": {
+    "query": "This user is most likely to want a mid-range, versatile, and moderately-priced product, such as a 40-inch 4K smart TV with average-to-good reviews, a balance of features and price, and a brand reputation for reliability, reflecting their average rating of 3.5.",
+    "recommendations": [
+      {
+        "parent_asin": "B08L4K9C2L",
+        "rank": 1,
+        "reason": "The INFITRANS Hollywood Style LED Vanity Mirror has a high average rating of 4.5* and is likely to delight the user with its high-quality features.",
+        "title": "INFITRANS Hollywood Style LED Vanity Mirror with Dimmable Light Bulbs,Makeup Mirror Smart Touch Control 3Colors Dimable Light Detachable 10X Magnification 360\u00b0Rotation",
+        "categories": []
+      },
+      {
+        "parent_asin": "B07F39RP3T",
+        "rank": 2,
+        "reason": "The 50pcs Clear Nail Art Fan-shaped Color Card has a perfect average rating of 5.0* and is likely to appeal to the user's interest in beauty and nail care.",
+        "title": "50pcs Clear Nail Art Fan-shaped Color Card, False Fake Nail Art Tips Sticks Design Polish Board Swatches Stick Salon Display Chart Practice Tool Decor Sets",
+        "categories": []
+      },
+      {
+        "parent_asin": "B00S8STF3E",
+        "rank": 3,
+        "reason": "The Phonak TVLink II Base Station has a high average rating of 4.2* and may appeal to the user's potential interest in electronics and accessories.",
+        "title": "Phonak TVLink II Base Station",
+        "categories": []
+      },
+      {
+        "parent_asin": "B07CNYD5D7",
+        "rank": 4,
+        "reason": "The Deadpool Steelbook 2 Year Anniversary Edition 4K Ultra HD Blu-ray has a high average rating of 4.5* and may delight the user with its unique entertainment content.",
+        "title": "Deadpool Steelbook 2 Year Anniversary Edition 4K Ultra HD Blu-ray",
+        "categories": []
+      },
+      {
+        "parent_asin": "B07G6K514F",
+        "rank": 5,
+        "reason": "The Home View Design, Inc. Galvanized Metal Wood Topped 4 Drawer Storage Cabinet has a high average rating of 4.9* and may appeal to the user's interest in home decor and organization.",
+        "title": "Home View Design, Inc. Galvanized Metal Wood Topped 4 Drawer Storage Cabinet",
+        "categories": []
+      }
+    ]
+  },
+  "turn_1": {
+    "query": "This user is most likely to want a skincare product, specifically a moisturizing or hydrating treatment, such as a facial cream or mask, that is easy to use, effective in combating dryness, and possibly contains natural or gentle ingredients, with a high quality and potentially reusable or eco-friendly design.",
+    "recommendations": [
+      {
+        "parent_asin": "B07CCN9JPX",
+        "rank": 1,
+        "reason": "The user has shown a preference for skincare products with high average ratings, and NATURAL Moisturizing Facial Masks has a 4.3* rating, indicating a high likelihood of delighting the user.",
+        "title": "NATURAL Moisturizing Facial Masks (ALOE VERA 4PK Box) | Deep Moisturizer Face Sheet Masks for Dry, Sensitive and Tired Skin",
+        "categories": []
+      },
+      {
+        "parent_asin": "B07HKKFT7T",
+        "rank": 2,
+        "reason": "The user's interest in the Foot Peel Mask and 1 Ounce Hyaluronic Acid Serum suggests they value products for skin health, making the Dry Body Brushing Set a strong candidate for delight.",
+        "title": "Dry Body Brushing Set - Natural Bristle Shower Brush - Remove Dead Skin & Toxins, Cellulite Treatment, Improves Lymphatic Functions, Exfoliates, Stimulates Circulation, Head to Toe Skin Glowing Set",
+        "categories": []
+      },
+      {
+        "parent_asin": "B07KX9TN5Y",
+        "rank": 3,
+        "reason": "The user's 5* rating for the Natwag Makeup Remover Pads and Hyaluronic Acid Serum indicates a fondness for skincare products, and the DR RASHEL Gold Glitter Face Mask's 4.2* rating and moisturizing properties make it a likely delight.",
+        "title": "DR RASHEL Gold Glitter Face Mask for Moisturizing and Firm Skin",
+        "categories": []
+      }
+    ]
+  },
+  "turn_2": {
+    "query": "This user is most likely to want a moisturizing hair serum or mask, specifically a hydrating and nourishing product with natural ingredients, easy to use, and effective in combating dryness, similar to the Hyaluronic Acid Serum they previously liked for their skin.",
+    "recommendations": [
+      {
+        "parent_asin": "B01KVWH8TW",
+        "rank": 1,
+        "reason": "The user's high ratings for hair and skin care products, such as the 5-star hyaluronic acid serum, suggest they will like the Paul Brown Hawaii Diamond Heads Ultra Shine Serum.",
+        "title": "Paul Brown Hawaii Diamond Heads Ultra Shine Serum, Unisex, Natural Fortifying & Smoothing Solution for Curly, Damaged, Dry Hair, Frizz Control, 4 oz",
+        "categories": []
+      },
+      {
+        "parent_asin": "B07NJ7VXBM",
+        "rank": 2,
+        "reason": "The user's 5-star review for the hyaluronic acid serum indicates a preference for high-quality, natural skincare products, making the Golden Jojoba Oil a likely delight.",
+        "title": "Golden Jojoba Oil by Noble Roots, Cold Pressed Natural Moisturizer for Conditioning Face Skin Hair Scalp and Cuticles (2 fl oz)",
+        "categories": []
+      },
+      {
+        "parent_asin": "B01BGSYRD0",
+        "rank": 3,
+        "reason": "The user's 4-star review for the eyelash and eyebrow growth serum suggests an interest in hair growth products, making the M-hair Loss Shampoo a potential delight.",
+        "title": "[The Hair Mother Cellar] M-hair Loss Shampoo For Moisturizing, Dandruff-free, Nourishing hair For Men (10.14fl.oz./300ml)",
+        "categories": []
+      }
+    ]
+  }
+}
