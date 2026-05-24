@@ -150,6 +150,5 @@ Adeniyi Oluwademiladeayo Samuel
 Ukegbu Chidera
 Oyebamire Oluwaseun
 
-## License
 
-MIT.
+
